@@ -1,4 +1,4 @@
-import processing.core.PApplet;
+import processing.core.PApplet; //need to download processing
 
 public class Demo extends PApplet {
 
