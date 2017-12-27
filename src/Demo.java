@@ -1,4 +1,5 @@
-import processing.core.PApplet; //need to download processing
+import processing.core.PApplet; //need to download processing and set it in
+                                // File -> Project structure -> Libraries -> + -> Java -> AccesPath\processing-3.3.6\coe\library
 
 public class Demo extends PApplet {
 
